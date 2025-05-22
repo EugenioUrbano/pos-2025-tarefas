@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE quiz SYSTEM "quiz.dtd">
+<quiz>
+    <questao>
+        <enunciado>Qual é a capital da França?</enunciado>
+        <alternativa id="a">Berlim</alternativa>
+        <alternativa id="b">Lisboa</alternativa>
+        <alternativa id="c">Paris</alternativa>
+        <alternativa id="d">Roma</alternativa>
+        <correta>c</correta>
+    </questao>
+
+    <questao>
+        <enunciado>Qual é o maior planeta do sistema solar?</enunciado>
+        <alternativa id="a">Terra</alternativa>
+        <alternativa id="b">Marte</alternativa>
+        <alternativa id="c">Júpiter</alternativa>
+        <alternativa id="d">Saturno</alternativa>
+        <correta>c</correta>
+    </questao>
+
+    <questao>
+        <enunciado>Quem escreveu "Dom Casmurro"?</enunciado>
+        <alternativa id="a">Machado de Assis</alternativa>
+        <alternativa id="b">José de Alencar</alternativa>
+        <alternativa id="c">Carlos Drummond de Andrade</alternativa>
+        <alternativa id="d">Manuel Bandeira</alternativa>
+        <correta>a</correta>
+    </questao>
+
+    <questao>
+        <enunciado>Qual elemento químico tem o símbolo O?</enunciado>
+        <alternativa id="a">Ouro</alternativa>
+        <alternativa id="b">Oxigênio</alternativa>
+        <alternativa id="c">Prata</alternativa>
+        <alternativa id="d">Ferro</alternativa>
+        <correta>b</correta>
+    </questao>
+
+    <questao>
+        <enunciado>Em que continente fica o Brasil?</enunciado>
+        <alternativa id="a">Ásia</alternativa>
+        <alternativa id="b">Europa</alternativa>
+        <alternativa id="c">África</alternativa>
+        <alternativa id="d">América</alternativa>
+        <correta>d</correta>
+    </questao>
+</quiz>

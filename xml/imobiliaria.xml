@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE imobiliaria SYSTEM "definicoes2.dtd">
+<!DOCTYPE imobiliaria [
+<!ELEMENT imobiliaria (imovel+)>
+
+<!ELEMENT imovel (descricao, proprietario, endereco, caracteristicas, valor)>
+
+<!ELEMENT descricao (#PCDATA)>
+
+<!ELEMENT proprietario (nome, (email | telefone)+)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT telefone (#PCDATA)>
+
+<!ELEMENT endereco (rua, bairro, cidade, numero?)>
+<!ELEMENT rua (#PCDATA)>
+<!ELEMENT bairro (#PCDATA)>
+<!ELEMENT cidade (#PCDATA)>
+<!ELEMENT numero (#PCDATA)>
+
+<!ELEMENT caracteristicas (tamanho, numQuartos, numBanheiros)>
+<!ELEMENT tamanho (#PCDATA)>
+<!ELEMENT numQuartos (#PCDATA)>
+<!ELEMENT numBanheiros (#PCDATA)>
+
+<!ELEMENT valor (#PCDATA)>
+]>
 
 <imobiliaria>
   <imovel>
