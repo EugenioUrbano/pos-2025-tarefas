@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardapio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="cardapio.xsd">
+
+    <prato id="1">
+        <nome>Feijoada</nome>
+        <descricao>Prato típico brasileiro com feijão preto e carnes.</descricao>
+        <ingredientes>
+            <ingrediente>Feijão preto</ingrediente>
+            <ingrediente>Carnes diversas</ingrediente>
+            <ingrediente>Farofa</ingrediente>
+            <ingrediente>Arroz</ingrediente>
+        </ingredientes>
+        <preco> 35.00</preco>
+        <calorias>850</calorias>
+        <tempoPreparo>90 minutos</tempoPreparo>
+    </prato>
+
+    <prato id="2">
+        <nome>Hambúrguer</nome>
+        <descricao>Pão com hambúrguer de carne, queijo e vegetais.</descricao>
+        <ingredientes>
+            <ingrediente>Pão</ingrediente>
+            <ingrediente>Carne bovina</ingrediente>
+            <ingrediente>Queijo</ingrediente>
+            <ingrediente>Alface</ingrediente>
+            <ingrediente>Tomate</ingrediente>
+        </ingredientes>
+        <preco>8.50</preco>
+        <calorias>650</calorias>
+        <tempoPreparo>15 minutos</tempoPreparo>
+    </prato>
+</cardapio>

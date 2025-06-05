@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="quiz.xsd">
+
+  <questao>
+    <enunciado>Qual é a capital do Brasil?</enunciado>
+    <alternativa id="a">Rio de Janeiro</alternativa>
+    <alternativa id="b">São Paulo</alternativa>
+    <alternativa id="c">Brasília</alternativa>
+    <alternativa id="d">Belo Horizonte</alternativa>
+    <correta>c</correta>
+  </questao>
+
+  <questao>
+    <enunciado>Quanto é 2 + 2?</enunciado>
+    <alternativa id="a">3</alternativa>
+    <alternativa id="b">4</alternativa>
+    <alternativa id="c">5</alternativa>
+    <alternativa id="d">6</alternativa>
+    <correta>b</correta>
+  </questao>
+
+</quiz>

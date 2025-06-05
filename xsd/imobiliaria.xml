@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imobiliaria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="imobiliaria.xsd">
+
+  <imovel>
+    <descricao>Apartamento no centro</descricao>
+    <proprietario>
+      <nome>João Silva</nome>
+      <email>joao.silva@email.com</email>
+      <telefone>11999999999</telefone>
+      <telefone>11888888888</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua das Flores</rua>
+      <bairro>Centro</bairro>
+      <cidade>São Paulo</cidade>
+      <numero>120</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>80.5</tamanho>
+      <numQuartos>2</numQuartos>
+      <numBanheiros>1</numBanheiros>
+    </caracteristicas>
+    <valor>R$ 450.000</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Casa com quintal</descricao>
+    <proprietario>
+      <nome>Ana Maria</nome>
+      <telefone>11987654321</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua dos Pinheiros</rua>
+      <bairro>Jardim</bairro>
+      <cidade>Campinas</cidade>
+      <numero>320</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>120.0</tamanho>
+      <numQuartos>3</numQuartos>
+      <numBanheiros>2</numBanheiros>
+    </caracteristicas>
+    <valor>R$ 650.000</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Studio compacto</descricao>
+    <proprietario>
+      <nome>Carlos Eduardo</nome>
+      <email>carlos@email.com</email>
+    </proprietario>
+    <endereco>
+      <rua>Avenida Paulista</rua>
+      <bairro>Bela Vista</bairro>
+      <cidade>São Paulo</cidade>
+    </endereco>
+    <caracteristicas>
+      <tamanho>35.0</tamanho>
+      <numQuartos>1</numQuartos>
+      <numBanheiros>1</numBanheiros>
+    </caracteristicas>
+    <valor>R$ 300.000</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Chácara para lazer</descricao>
+    <proprietario>
+      <nome>Maria Oliveira</nome>
+    </proprietario>
+    <endereco>
+      <rua>Estrada da Serra</rua>
+      <bairro>Zona Rural</bairro>
+      <cidade>Bragança Paulista</cidade>
+      <numero>500</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>250.75</tamanho>
+      <numQuartos>4</numQuartos>
+      <numBanheiros>3</numBanheiros>
+    </caracteristicas>
+    <valor>R$ 900.000</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Kitnet mobiliada</descricao>
+    <proprietario>
+      <nome>Fernanda Lopes</nome>
+      <telefone>11911112222</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua Augusta</rua>
+      <bairro>Consolação</bairro>
+      <cidade>São Paulo</cidade>
+    </endereco>
+    <caracteristicas>
+      <tamanho>28.3</tamanho>
+      <numQuartos>1</numQuartos>
+      <numBanheiros>1</numBanheiros>
+    </caracteristicas>
+    <valor>R$ 280.000</valor>
+  </imovel>
+
+</imobiliaria>

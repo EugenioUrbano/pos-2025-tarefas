@@ -1,0 +1,63 @@
+{
+    "imobiliaria": {
+      "imovel": [
+        {
+          "descricao": "Apartamento com varanda gourmet",
+          "proprietario": {
+            "nome": "Lucas Andrade",
+            "email": ["lucas@example.com"],
+            "telefone": ["11911112222", "11933334444"]
+          },
+          "endereco": {
+            "rua": "Rua das Palmeiras",
+            "bairro": "Jardim América",
+            "cidade": "São Paulo",
+            "numero": 123
+          },
+          "caracteristicas": {
+            "tamanho": 85.5,
+            "numQuartos": 2,
+            "numBanheiros": 2
+          },
+          "valor": "R$ 600.000"
+        },
+        {
+          "descricao": "Casa térrea com quintal",
+          "proprietario": {
+            "nome": "Mariana Sousa",
+            "telefone": ["11955556666"]
+          },
+          "endereco": {
+            "rua": "Rua das Acácias",
+            "bairro": "Vila Nova",
+            "cidade": "Campinas",
+            "numero": 456
+          },
+          "caracteristicas": {
+            "tamanho": 120.0,
+            "numQuartos": 3,
+            "numBanheiros": 2
+          },
+          "valor": "R$ 750.000"
+        },
+        {
+          "descricao": "Studio compacto no centro",
+          "proprietario": {
+            "nome": "Rafael Lima"
+          },
+          "endereco": {
+            "rua": "Rua 7 de Setembro",
+            "bairro": "Centro",
+            "cidade": "Curitiba"
+          },
+          "caracteristicas": {
+            "tamanho": 35.0,
+            "numQuartos": 1,
+            "numBanheiros": 1
+          },
+          "valor": "R$ 300.000"
+        }
+      ]
+    }
+  }
+  

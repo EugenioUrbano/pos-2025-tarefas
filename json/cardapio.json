@@ -1,0 +1,38 @@
+{
+    "cardapio": {
+      "prato": [
+        {
+          "id": 1,
+          "nome": "Spaghetti à Bolonhesa",
+          "descricao": "Macarrão com molho de carne",
+          "ingredientes": {
+            "ingrediente": [
+              "Macarrão",
+              "Molho de tomate",
+              "Carne moída"
+            ]
+          },
+          "preco": 29.90,
+          "calorias": 650,
+          "tempoPreparo": "25 minutos"
+        },
+        {
+          "id": 2,
+          "nome": "Salada Caesar",
+          "descricao": "Salada com frango grelhado e molho Caesar",
+          "ingredientes": {
+            "ingrediente": [
+              "Alface",
+              "Frango grelhado",
+              "Molho Caesar",
+              "Queijo parmesão"
+            ]
+          },
+          "preco": 22.50,
+          "calorias": 420,
+          "tempoPreparo": "15 minutos"
+        }
+      ]
+    }
+  }
+  

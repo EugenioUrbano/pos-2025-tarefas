@@ -1,0 +1,51 @@
+{
+    "quiz": {
+      "questao": [
+        {
+          "enunciado": "Qual é a capital do Brasil?",
+          "alternativa": [
+            {
+              "id": "a",
+              "valor": "Rio de Janeiro"
+            },
+            {
+              "id": "b",
+              "valor": "São Paulo"
+            },
+            {
+              "id": "c",
+              "valor": "Brasília"
+            },
+            {
+              "id": "d",
+              "valor": "Belo Horizonte"
+            }
+          ],
+          "correta": "c"
+        },
+        {
+          "enunciado": "Quanto é 2 + 2?",
+          "alternativa": [
+            {
+              "id": "a",
+              "valor": "3"
+            },
+            {
+              "id": "b",
+              "valor": "4"
+            },
+            {
+              "id": "c",
+              "valor": "5"
+            },
+            {
+              "id": "d",
+              "valor": "6"
+            }
+          ],
+          "correta": "b"
+        }
+      ]
+    }
+  }
+  
