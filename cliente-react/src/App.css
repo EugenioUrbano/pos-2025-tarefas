@@ -51,12 +51,12 @@ h1 {
   font-size: 16px;
   outline: none;
   transition: all 0.3s ease;
-  background: #f8f9fa;
+  background: #000000;
 }
 
 .search-form input:focus {
   border-color: #6a11cb;
-  background: white;
+  background: rgb(0, 0, 0);
   box-shadow: 0 0 0 3px rgba(106, 17, 203, 0.1);
 }
 
